@@ -1,5 +1,7 @@
 # WeatherApplic
 
+Angular 8 and Web-Api based Weather App 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
 
 ## Development server
